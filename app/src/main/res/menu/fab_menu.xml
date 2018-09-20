@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/icon1"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Icon 1" />
+    <item
+        android:id="@+id/icon2"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Icon 2" />
+
+    <item
+        android:id="@+id/icon3"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Icon 3" />
+
+    <item
+        android:id="@+id/icon4"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Icon 4" />
+    <item
+        android:id="@+id/icon5"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Icon 5" />
+    <!--<item
+        android:id="@+id/icon6"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Icon 6" />-->
+</menu>
